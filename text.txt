@@ -1,0 +1,9 @@
+userLoggedIn: {
+    "data": {
+        "_id": "609c20ce9eab8002b08719bd",
+        "auth": "aGltYW5zaHU6aGltYW5zaHU=",
+        "name": "himanshu",
+        "mail": "himanshu"
+    },
+    "loggedIn": "true"
+}

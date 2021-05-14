@@ -1,0 +1,48 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+.wrapper {
+  position: absolute;
+  height: 99%;
+  width: 99%;
+  display: flex;
+  flex-direction: column;
+  flex-wrap: nowrap;
+  align-content: center;
+  justify-content: center;
+  align-items: center;
+  background-color: #6699cc;
+  overflow: hidden;
+}
+.LoginCard {
+  display: flex;
+  flex-direction: column;
+  flex-wrap: nowrap;
+  align-content: center;
+  justify-content: center;
+  align-items: center;
+  height: 45%;
+  width: 30%;
+}
+.margin10 {
+  margin: 10px;
+}
+.form {
+  display: flex;
+  flex-direction: column;
+  flex-wrap: nowrap;
+  align-content: center;
+  justify-content: center;
+  align-items: center;
+}
+.sub {
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+  align-content: center;
+  justify-content: center;
+  background-color: white;
+  margin-bottom: 10px;
+  padding: 10px;
+}
